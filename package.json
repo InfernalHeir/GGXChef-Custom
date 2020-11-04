@@ -1,0 +1,11 @@
+{
+  "name": "yield-farming-custom-chef",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/InfernalHeir/bns-defi.git",
+  "author": "Bhupendra <bhupendrabisht61049@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
